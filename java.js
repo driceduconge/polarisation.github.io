@@ -6,7 +6,7 @@ $('#bg').delay('2000').fadeOut(5000);
 $('#m').click(function(){
   $('#bite').attr("href",'');
   $('#bite').html('Mail reçu');
-  $('#photo').css('content',"url('./src/mailmarie.jpg'");
+  $('#photo').css('content',"url('./src/mailmarie.JPG'");
   $('#bite').css('textDecoration','none');
 });
 $('#m1').click(function() {
@@ -58,7 +58,7 @@ $('#eri3').click(function() {
     $('#bite').css('textDecoration','none');
 });
 $('#ambre').click(function() {
-    $('#photo').css('content',"url('./src/mailambre.jpg'");
+    $('#photo').css('content',"url('./src/mailambre.JPG'");
     $('#bite').attr("href",'');
     $('#bite').html("Mail reçu");
     $('#bite').css('textDecoration','none');
