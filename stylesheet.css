@@ -168,6 +168,7 @@ text-align: center;
 .sq:hover {
   background-color: white;
   cursor: pointer;
+  content: url('./sqhov.png');
 }
 .menusrc{
   position: absolute;
@@ -190,6 +191,8 @@ text-align: center;
   background-color: #ff5b12;
   visibility: visible;
   align-self: center;
+  content: url('./sqba.png');
+
 
 }
 #menumar{
