@@ -166,7 +166,6 @@ text-align: center;
   color: black;
 }
 .sq:hover {
-  background-color: white;
   cursor: pointer;
   content: url('./sqhov.png');
 }
@@ -188,7 +187,6 @@ text-align: center;
   width:8px;
   height:8px;
   left:0.9%;
-  background-color: #ff5b12;
   visibility: visible;
   align-self: center;
   content: url('./sqba.png');
