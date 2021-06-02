@@ -186,7 +186,7 @@ text-align: center;
   position: relative;
   width:8px;
   height:8px;
-  left:0.9%;
+  left:0.72%;
   visibility: visible;
   align-self: center;
   content: url('./sqba.png');
@@ -326,7 +326,6 @@ html, body {
 }
 #expliq{
   margin: 3% 4% 100% 4%;
-  text-align:justify;
   line-height: 130%;
   font-size: 1.8vh;
   font-family: '0xA000-Squareish-Mono';
@@ -342,7 +341,6 @@ html, body {
   position: absolute;
   bottom:1%;
   margin: 0% 0.9% 0% 0.9%;
-  text-align:justify;
   line-height: 130%;
   font-size: 1.5vh;
   font-family: '0xA000-Squareish-Mono';
